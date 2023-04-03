@@ -1,0 +1,31 @@
+.table{
+    width: 80%;
+    height: auto;
+    margin: 20px;
+    border: 1px solid #707070;
+    border-spacing: 0.5px;
+    color: white;
+    text-align: center;
+    box-shadow: 1.5px 1.5px 1.5px 1.5px #70707076;
+}
+.head-tr{
+    border: 1px solid #707070 !important;
+    background-color: #161C32;
+}
+.head-tr th{
+    border: 0.5px solid #707070;
+    padding: 8px;
+}
+.t-body tr{
+    border: 1px solid #707070;
+    background-color: #283046;
+}
+.t-body td{
+    width: 20%;
+    align-items: center;
+    border: 0.5px solid #707070;
+    padding: 5px;
+}
+.t-body td a{
+    color:white;
+}
